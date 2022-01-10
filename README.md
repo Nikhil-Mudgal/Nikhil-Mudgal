@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nikhil-Mudgal
+- 👋 Hi, I’m Nikhil-Mudgal
 - 👀 I’m a Deep leaning Enthusiast.
 - 🌱 I’m currently learning Tensorflow and implementing various papers.
 - 💞️ I’m looking to collaborate on any project related to AIML.

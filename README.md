@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nikhil-Mudgal
 - 👀 I’m a Deep leaning Enthusiast.
-- 🌱 I’m currently learning Tensorflow and implementing various papers.
+- 🌱 I’m currently learning Tensorflow,PyTorch and implementing various papers.
 - 💞️ I’m looking to collaborate on any project related to AIML.
 - 📫 You can reach me at nmudgal1106@gmail.com
 - :face_in_clouds:	Data Science Intern at EdGE, Banglore 
